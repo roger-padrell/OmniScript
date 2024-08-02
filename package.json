@@ -1,0 +1,28 @@
+{
+  "name": "omniscript",
+  "version": "1.0.0",
+  "description": "Omni Programming Language",
+  "main": "index.js",
+  "scripts": {
+    "test": "omni"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roger-padrell/OmniScript.git"
+  },
+  "keywords": [
+    "Omni",
+    "OmniScript"
+  ],
+  "author": "Roger Padrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roger-padrell/OmniScript/issues"
+  },
+  "homepage": "https://github.com/roger-padrell/OmniScript#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompt": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
